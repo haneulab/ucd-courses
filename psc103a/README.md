@@ -1,6 +1,6 @@
 # PSC 103A Winter 2023
 
-## R Prgoramming Language
+## Running R Programs in [Rstudio Cloud](https://posit.cloud/)
 
 In this module, I will do a step-by-step explanation of **how to use R programming language in Rstudio Cloud**. Conventionally we needed to install **R software**, _which is a programming language_ and **R studio**, _which is an integrated development environment (IDE) to run R programs_, in our local machines (our computers, laptops, etc.).
 
