@@ -8,7 +8,13 @@
 <br />
 <br />
 
-## 🚩 Running R Programs in [Rstudio Cloud](https://posit.cloud/)
+## 🚩 Setting Up [Rstudio Cloud](https://posit.cloud/) Environment For Your Programming
+
+> You can simply watch the videos if you want to follow along visually
+
+- Setting Up Video (those who are not familar with Linux CLI) [Zoom Recording](https://ucdavis.zoom.us/rec/share/ThQ1d8r22YsdP2_-mAdhssLdOXXYFA1XAIGmC9BX1ft0GMwtZsmF5UtglG9d6kMX.zYf3nzHMKZTMh-W2?startTime=1673385258000)
+
+- Setting Up Video (those familar with Linux CLI) [Zoom Recording](https://ucdavis.zoom.us/rec/share/RWFNKAgUPzDZky5cHO2oZmPNgFghYBsONRipo9inU50ZlCfX3owD7J3fenBTernE._SkHVNNL9r36wKt2?startTime=1673386942000)
 
 In this module, I will do a step-by-step explanation of **how to use R programming language in Rstudio Cloud**. Conventionally we needed to install **R software**, _which is a programming language_ and **R studio**, _which is an integrated development environment (IDE) to run R programs_, in our local machines (our computers, laptops, etc.).
 
