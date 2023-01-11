@@ -10,7 +10,7 @@
 
 ## 🚩 Setting Up [Rstudio Cloud](https://posit.cloud/) Environment For Your Programming
 
-> You can simply watch the videos if you want to follow along visually
+> You can simply watch the video (follow the link below) if you want to follow along with the video visually. 
 
 - Setting Up Video [Zoom Video](https://ucdavis.zoom.us/rec/share/xoax6bDOVHMeKeg_V7CBetJPWUpCsvZQH1a1jx8m-tPxGM9f9X-uccqTiFszJdHS.FbZz0L7fDrsAcJrc)
 
