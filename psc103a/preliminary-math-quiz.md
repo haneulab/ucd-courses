@@ -57,7 +57,7 @@ To approach this problem, we can first observe that we do not necessarily need t
 Also **note** that $-48x - 6y - 24$ can be factored out by -6 and since the right term is 0 we can reset the equation as $8x + y + 4 = 0$.
 
 $$
-   \text{SOLUTION } y = -8x + 4
+   \text{SOLUTION } y = -8x - 4
 $$
 
 <br />
