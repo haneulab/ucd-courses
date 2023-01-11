@@ -6,15 +6,25 @@ This means that,
 
 $$
     \text {First - } (4-3) = 1
-    \\
+$$
+
+$$
     \text {Second - } 2(4-3) = 2
-    \\
+$$
+
+$$
     \text {Third - } 5 - 2(4-3) + 7 = 5 - 2 + 7 = 10
-    \\
+$$
+
+$$
     \text {Fourth - } [5 - (5 - 2(4-3) + 7)] = 5 - 10 = -5
-    \\
+$$
+
+$$
     \text {Fifth - } [5 - (5 - 2(4-3) + 7)] + 3 = -5 + 3 = -2
-    \\
+$$
+
+$$
     \text {SOLUTION } = -2
 $$
 
@@ -24,12 +34,18 @@ $$
 
 $$
  \rightarrow   7(x - 5) = 5(x + 5)
- \\
- \rightarrow 7x - 35 = 5x + 25
- \\
- \rightarrow 2x = 60
- \\
- \rightarrow x = 30
+$$
+
+$$
+\rightarrow 7x - 35 = 5x + 25
+$$
+
+$$
+\rightarrow 2x = 60
+$$
+
+$$
+\rightarrow x = 30
 $$
 
 <br />
